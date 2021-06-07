@@ -1,0 +1,17 @@
+Brandon:
+ Lista circular simplemente enlazada
+ Lista circular doblemente enlazada
+ Burbuja
+ Rápido
+
+Jorge:
+ Lista simplemente enlazada
+ Lista doblemente enlazada
+ Selección
+ Pagina Principal
+
+Helly:
+ Pila 
+ Cola
+ Cola de prioridad
+ Inserción
